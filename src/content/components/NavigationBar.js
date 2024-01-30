@@ -1,9 +1,10 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import './Components.css';
 
 const NavigationBar = () => {
   return (
-    <div>
+    <nav className='navbar-links'>
       <li>
         <Link to="/">Home</Link>
       </li>
@@ -13,7 +14,7 @@ const NavigationBar = () => {
       <li>
         <Link to="/contact">Contact</Link>
       </li>
-    </div>
+    </nav>
   );
 }
 
