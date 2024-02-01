@@ -1,6 +1,9 @@
+import './Contact.css';
+import './images/desktop.jpg'
+
 function Contact() {
     return ( 
-        <p>dd@ElementInternals.com</p>
+        <p className='Contact'>dd@example.com</p>
      );
 }
 

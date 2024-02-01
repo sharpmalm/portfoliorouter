@@ -1,0 +1,8 @@
+.Contact {
+    text-align: center;
+    background-image: url("./images/desktop.jpg"); /* Corrected image path */
+    background-size: cover;
+    height: 95vh; /* Ensure full-screen coverage */
+    font-size: xx-large;
+    color: red;
+}

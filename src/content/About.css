@@ -1,0 +1,13 @@
+.About {
+    text-align: center;
+    background-image: url("./images/cyborg.jpg"); /* Corrected image path */
+    background-size: cover;
+    height: 95vh; /* Ensure full-screen coverage */
+    font-size: xx-large;
+    color: orangered;
+}
+
+.PLeft {
+    text-align: left;
+    color: blue;
+}

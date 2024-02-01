@@ -1,0 +1,10 @@
+.Home {
+    text-align: center;
+    background-image: url("./images/HomePageCyborg.jpg"); /* Corrected image path */
+    background-size: cover;
+    height: 100vh; /* Ensure full-screen coverage */
+  }
+
+  .h1 {
+    color: white;
+  }
