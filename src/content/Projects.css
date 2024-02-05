@@ -1,0 +1,49 @@
+.Project {
+    text-align: center;
+    background-image: url("./images/droid12.jpg"); /* Corrected image path */
+    background-size: cover;
+    height: 95vh; /* Ensure full-screen coverage */
+    display: flex; /* Enable flex mode */
+    flex-direction: column; /* Stack children vertically */
+    /* font-size: xx-large;
+    color: red; */
+}
+
+.plabel {
+    background-color: #40a6ea; /* Light orange color */
+    opacity: 0.75; /* 75% opacity */
+    color: #f7f9fc; /* Dark text color for better readability */
+    font-size:x-large;
+    padding: 10px; /* Add some padding for spacing */
+    margin-top: 20px; /* Add space above the label */
+    display: inline-block; /* Make the label fit its content width */
+    width: -moz-fit-content; /* Adjust width to fit the text */
+    width: fit-content;
+}
+
+.plabel2 {
+    background-color: #40a6ea; /* Light orange color */
+    opacity: 0.75; /* 75% opacity */
+    color: #f7f9fc; /* Dark text color for better readability */
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px; /* Add some padding for spacing */
+    margin-top: 20px; /* Add space above the label */
+    display: inline-block; /* Make the label fit its content width */
+    width: -moz-fit-content; /* Adjust width to fit the text */
+    width: fit-content;
+    align-self: center;
+}
+
+a {
+    color: white;
+    /* Other styles (e.g., font-size, font-weight, etc.) */
+  }
+  
+  a:hover {
+    color: yellow;
+  }
+  
+  a:active {
+    color: yellow;
+  }
