@@ -10,7 +10,7 @@ function Projects() {
                 </a>
             </label>
             <label className="plabel2">
-                <a href="https://github.com/sharpmalm/Asset Tracking" target="_blank" rel="noreferrer">
+                <a href="https://github.com/sharpmalm/AssetTracking" target="_blank" rel="noreferrer">
                     ASSET TRACKING
                 </a>
             </label>
