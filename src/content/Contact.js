@@ -3,7 +3,11 @@ import './images/desktop.jpg'
 
 function Contact() {
     return ( 
-        <p className='Contact'>dd@example.com</p>
+        <div className='Contact'>
+            <label className='label'>dd@example.com</label>
+        </div>
+        
+        // <p className='Contact'>dd@example.com</p>
      );
 }
 
